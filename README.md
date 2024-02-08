@@ -39,9 +39,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 - [Angular](https://angular.io/) - The web framework used.
 - [PrimeNG](https://www.primefaces.org/primeng/) - The UI component suite for Angular.
 
-## Acknowledgments
-This project is implementaion of this tutorial: https://youtu.be/kBXjnmKm4ow?si=yC6zoz2-vvEINJ9v
 
-## Support
 
-For any additional information or support, feel free to contact me: https://abdelrahmanbayoumi.github.io/
+
