@@ -2,7 +2,12 @@
 
 This project is a simple yet powerful To-Do List application built with Angular 17 and PrimeNG. It features a clean user interface for managing your daily tasks with ease. The app uses PrimeNG UI components for Angular to deliver a responsive and accessible experience.
 
-![image](https://github.com/AbdelrahmanBayoumi/angular-primeng-todo/assets/48678280/d0c36e92-c867-4752-940f-d39664016ff6)
+
+![Screen Shot 2024-02-08 at 09 15 26](https://github.com/slunecnicee/to-do-app-Angular/assets/129013318/92870381-45b1-4af2-9629-fc09d3321166)
+
+
+## live
+https://to-do-app-angular-seven.vercel.app/todo
 
 
 ## Getting Started
